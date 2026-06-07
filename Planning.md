@@ -2,7 +2,10 @@ Here is where I will be putting my planning info! Both so that others can see my
 
 Planing:
     Requirements:
-        Platform:
+        Platforms:
+            - desktop
+            - google devices
+            - apple devices
         Features:
             To-do list:
                 - Deadlines
@@ -14,6 +17,7 @@ Planing:
                 - Categorization
                 - Prioritization
                 - Reminders
+                - long term goals
             Calendar:
                 - Syncs with to-do list
                 - Syncs with external calendars (Google, Apple, etc.)
@@ -25,6 +29,19 @@ Planing:
                 - Add to day or event
                 - Save to database
                 - Pin events
+            Financial:
+                - amounts from different sources
+                - tracking and budgeting
+            Workout tracking:
+                - Excercises
+                - Sets, Reps, and Weights
+                - Changes over time
+                - personal bests
+            Other assorted:
+                - Weather overview
+                - Spotify connection and control
+            Potential features:
+                - Mail integration?
         Tech stack:
         UI:
             - sleek
