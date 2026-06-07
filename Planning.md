@@ -21,12 +21,20 @@ Planing:
                 - Event creation and editing
                 - Notifications
             Video Logs:
-                - Apply overlay
+                - Apply optional overlay
                 - Add to day or event
-                - save to database
+                - Save to database
+                - Pin events
         Tech stack:
         UI:
+            - sleek
+            - terminal-esque
+            - custom themes
+            - few colours
         UX:
+            - very simple, unconfusing
+            - minimum amount of buttons to not know where any function needed may be
+            - as much on one page as possible without feeling cramped
         Color scheme:
             Secondary:
                 #85937a
